@@ -1,5 +1,6 @@
 @extends("layout.main")
 @section("content")
-test
+ 
+<h1>Тестовое задание</h1>
 
 @endsection

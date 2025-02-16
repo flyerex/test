@@ -1,9 +1,15 @@
 Запускаем стандартные операции
+
 composer install
+
 npm install
+
 npm run dev
+
 Устанавливаем настройки к бд в .env
+
 php artisan migrate --seed
+
 php artisan storage:link
 
 После этого можно выполнять тесты двух роутов:
